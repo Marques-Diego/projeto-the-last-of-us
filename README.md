@@ -6,7 +6,7 @@ Um projeto feito com acompanhamento de desenvolvedores sêniors 🎯
 
 - Palavras com letras faltantes foram alguns problemas que acabei percebendo ao notar que nada acontecia com o código.
 
-[<img src="./projeto-the-last-of-us.gif" alt="gif da tela do projeto The last of us">]
+<img src="./projeto-the-last-of-us.gif" alt="gif da tela do projeto The last of us">
 
 ## Tecnologias utilizadas
 
